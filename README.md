@@ -1,5 +1,7 @@
 # DIKWP-MESH 9.0 Internal Responsibility Runtime
 
+Created by Yucong Duan (段玉聪).
+
 A generic, case-independent runtime that compiles user intent, typed relations, active decisions, substantive protection, audience disclosure, authority, execution, world effect, acceptance and correction into one replayable responsibility worldline.
 
 ## Quick start
